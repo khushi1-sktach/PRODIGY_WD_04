@@ -1,7 +1,5 @@
 # PRODIGY_WD_04
 
-# shaillll-PRODIGY_WD_04
-
 This project is a personal portfolio website designed and developed to showcase my skills, projects, and interests as a frontend web developer. Built with HTML, CSS, and JavaScript, the website features a clean and modern design, responsive layout, and interactive elements to engage visitors.
 
 The homepage introduces me with a warm greeting, a photo, and a short description of my passion for web development. The navigation bar allows smooth scrolling between sections like About, Projects, and Contact. In the "Projects" section, I’ve included a curated list of personal projects such as a Tic Tac Toe Game, Stopwatch, Amazon Clone, and more—each representing a step in my development journey.
